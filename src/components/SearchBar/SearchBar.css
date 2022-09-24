@@ -1,0 +1,31 @@
+.line {
+    background-color:black;
+    height: 3px;
+}
+.search{
+    display: inline-block;
+}
+.search-head {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #30384d;
+}
+.search-feild{
+    width: 70vw;
+    height: 30px;
+    color:#30384d;
+    font-size: 0.8em;
+    border: none;
+    background-color: #f6f6f6;
+}
+.search-main{
+    position: relative;
+}
+.icon-search{
+    position: absolute;
+    left:70px;
+    top: 7px;
+}
+::placeholder {
+    color: #7e8a9a;
+  }

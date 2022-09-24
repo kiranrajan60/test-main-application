@@ -1,0 +1,11 @@
+.main-body{
+    font-family: 'Montserrat' !important;
+}
+.food-head {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #30384d;
+}
+.card-main{
+    background-color: #f6f6f6;
+}
